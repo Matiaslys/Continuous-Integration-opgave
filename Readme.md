@@ -1,0 +1,1 @@
+Denne Repo kommer til at indeholde mit projekt til Continuous Integration.
